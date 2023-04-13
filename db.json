@@ -115,6 +115,26 @@
       "x": -14,
       "y": 57,
       "samples": []
+    },
+    {
+      "id": 9,
+      "name": "Lagoinha Nova",
+      "x": 48,
+      "y": -12.9,
+      "samples": [
+        {
+          "id": "9lea19660606",
+          "parameter": "lead",
+          "value": 99,
+          "date": "1966-06-06"
+        },
+        {
+          "id": "9cad20221123",
+          "parameter": "cadmium",
+          "value": 0.0023,
+          "date": "2022-11-23"
+        }
+      ]
     }
   ]
 }

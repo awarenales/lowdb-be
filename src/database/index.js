@@ -21,7 +21,9 @@ export async function createPoint(body) {
 }
 
 export async function deletePoint(body) {
-  const indexToDelete = db.data.points.findIndex((point) => point.id === body.id);
+  const indexToDelete = db.data.points.findIndex(
+    (point) => point.id === body.id,
+  );
   db.data.points.splice(indexToDelete, 1);
   await db.write();
 }
