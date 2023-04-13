@@ -1,0 +1,120 @@
+{
+  "points": [
+    {
+      "id": 1,
+      "name": "Rio 1",
+      "x": 23,
+      "y": -14.5,
+      "samples": [
+        {
+          "id": 1,
+          "parameter": "aluminum",
+          "value": 0.02,
+          "date": "2023-02-22"
+        },
+        {
+          "id": "1dbo20230407",
+          "parameter": "dbo",
+          "value": 251,
+          "date": "2023-04-07"
+        },
+        {
+          "id": "1dbo20230411",
+          "parameter": "dbo",
+          "value": 2.51,
+          "date": "2023-04-11"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rio Bonito",
+      "x": 44,
+      "y": 55,
+      "samples": [
+        {
+          "id": "2ars20230505",
+          "parameter": "arsenic",
+          "value": 0.01,
+          "date": "2023-05-05"
+        },
+        {
+          "id": "2alu20230505",
+          "parameter": "aluminum",
+          "value": 0.01,
+          "date": "2023-05-05"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Rio Azul",
+      "x": 90,
+      "y": 55,
+      "samples": [
+        {
+          "id": "3dbo20230505",
+          "parameter": "dbo",
+          "value": 50,
+          "date": "2023-05-05"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Rio Verde",
+      "x": 95,
+      "y": 55,
+      "samples": [
+        {
+          "id": "4cop20230412",
+          "parameter": "copper",
+          "value": 0.4,
+          "date": "2023-04-12"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Rio Vermelho",
+      "x": 95,
+      "y": -9.9,
+      "samples": [
+        {
+          "id": "5esc20230505",
+          "parameter": "escherichia",
+          "value": 5000,
+          "date": "2023-05-05"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Rio Grande",
+      "x": 10,
+      "y": -9.9,
+      "samples": []
+    },
+    {
+      "id": 7,
+      "name": "Lago das Pedras",
+      "x": "58",
+      "y": "-12.3",
+      "samples": [
+        {
+          "id": "7lea20230410",
+          "parameter": "lead",
+          "value": 0.001,
+          "date": "2023-04-10"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Lagoa Grande",
+      "x": -14,
+      "y": 57,
+      "samples": []
+    }
+  ]
+}
